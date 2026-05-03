@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi! I'm Huy, but feel free to call me Henry 😊 </h1>
-  <h3> A passionate IT student from Vietnam with a strong eagerness to learn and grow </h3>
+  <h3> A passionate IT student from Viet Nam with a strong eagerness to learn and grow </h3>
 </div>
 
 - 🌱 I’m currently learning in HCMUTE
