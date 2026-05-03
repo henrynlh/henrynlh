@@ -1,4 +1,8 @@
 ## 👋 Hi! I'm Huy, but feel free to call me Henry 😊
+<div align="center">
+  <h1>👋 Hi! I'm Huy, but feel free to call me Henry 😊 </h1>
+  <h3>A passionate IT student from Viet Nam 🇻🇳</h3>
+</div>
 
 - 🌱 I’m currently learning in HCMUTE
 - 💬 Ask me about anything
