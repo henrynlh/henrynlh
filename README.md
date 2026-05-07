@@ -1,9 +1,10 @@
 <div align="center">
   <h1>👋 Hi! I'm Huy, but feel free to call me Henry 😊 </h1>
-  <h3> A passionate IT student from Viet Nam with a strong eagerness to learn and grow </h3>
+  <h3> 👨‍💻Information Technology Student | 🌱 A Passionate Student about Information Technology </h3>
 </div>
 
-- 🌱 I’m currently learning in HCMUTE
+- 🌱 I’m currently learning at: Ho Chi Minh City University of Technology and Engineering
+- 💻 Major: Information Technology
 - 💬 Ask me about anything
 - 📫 How to reach me: lehuynguyen2k6@gmail.com
 <!--
